@@ -1,6 +1,5 @@
 <img align="right" src="https://s-media-cache-ak0.pinimg.com/236x/ae/95/68/ae9568d39a31cc3ce2f7540d311647de.jpg" alt="screenshot here: CC0 image by Shikhei Goh https://www.pinterest.com/pin/483081497501992929/" />
-### title: name
-
+### name
 #### overview
 ------------
 - a
@@ -24,5 +23,5 @@
 - Multiplayer:
 - Game loop:
 - Game flow (~areas, ~progression):
-- [**Long term value:**](http://en.wikipedia.org/wiki/Customer_lifetime_value) { short, medium, large } { short/nice/long replayability }
+- [**Lifetime value:**](http://en.wikipedia.org/wiki/Customer_lifetime_value) { short, medium, large } { short/nice/long replayability }
  
